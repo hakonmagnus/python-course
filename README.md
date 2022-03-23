@@ -27,15 +27,20 @@ The course is divided into several parts. It has many sections, but they can rou
 I hope I will see you in the course, and I also hope to be of utmost service to you and your programming carreer.
 
 **What you’ll learn**
+
 * Get a firm grasp of the Python language.
 * Know how to solve problems using Python.
 * Learn how to debug your applications and find errors in your code.
 * Learn how to use packages and libraries.
 * Learn the basics of Matplotlib, NumPy and Pandas.
 * Apply your knowledge in your own programming projects.
-**Are there any course requirements or prerequisites?**
+
+**Are there any course requirements or prerequisites**
+
 * No programming experience is required. You will learn everything you need to know as we go along.
+
 **Who this course is for:**
+
 * Beginner developers and people interested in learning Python from scratch.
 * Software developers coming from other programming languages.
 * Students of Computer Science looking for additional material on Python.
