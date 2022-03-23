@@ -24,7 +24,7 @@ The course is divided into several parts. It has many sections, but they can rou
 
 **Lots of additional resources** - This course provides text articles and a GitHub repository alongside the videos of the course, as well as coding challenges and quizzes to test your knowledge and solidify your understanding.
 
-I hope I will see you in the course, and I also hope to be of utmost service to you and your programming carreer.
+I hope I will see you in the course, and I also hope to be of utmost service to you and your programming career.
 
 **What you’ll learn**
 
