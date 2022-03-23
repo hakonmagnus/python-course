@@ -104,4 +104,4 @@ break      except     in         raise
 
 Below is a list of data types for your reference:
 
-<img alt="Python Data Types" width="450px" src="images/types.png" />
+<img alt="Python Data Types" width="450px" src="../images/types.png" />
